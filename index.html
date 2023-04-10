@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Engine</title>
+
+    <!--CSS file link-->
+    <link rel="stylesheet" href="style.css">
+
+    <!--Google font links-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans&family=Permanent+Marker&display=swap" rel="stylesheet">
+
+
+</head>
+
+<body>
+
+    <div id="main_div">
+
+        <!--Logo-->
+        <div id="logo1">
+            <span style="color:#4285F4">S</span><span style="color:#F4B400">e</span><span
+                style="color:#DB4437">a</span><span style="color:#4285F4">r</span><span
+                style="color:#0F9D58">c</span><span style="color:#DB4437">h</span>
+        </div>
+
+
+        <!--Search input-->
+        <div id="sub_header1">
+            <form id="form1">
+                <input id="query1" autocomplete="off" type="text" name="query" placeholder="Search" required>
+            </form>
+            <div id="clear" onclick="document.getElementById('query1').value = ''"><i
+                    class="fa-solid fa-xmark fa-xl"></i></div>
+            <a href="result.html">
+                <div id="search" onclick="fetch_index_input()"><i class="fa-solid fa-magnifying-glass fa-xl"></i></div>
+            </a>
+        </div>
+
+    </div>
+
+
+    <!--Current page JavaScript-->
+    <script>
+
+        //stored search query in variable in session storage
+        function fetch_index_input() {
+            let query1 = document.getElementById("query1").value;
+            sessionStorage.setItem("query", query1);
+
+            //fetch_data function will fire from script.js file and fetch data from API
+            // fetch_data();
+        }
+
+
+        //event listener for 'Enter' keypress
+        var input = document.getElementById("query1");
+
+        input.addEventListener("keypress", function (event) {
+            if (event.key === "Enter") {
+
+                //prevented default <form> action on 'Enter' keypress
+                event.preventDefault();
+
+                //click event will fire on pressing 'Enter' key
+                document.getElementById("search").click();
+            }
+        });
+
+    </script>
+
+    <!-- fontawesom script -->
+    <script src="https://kit.fontawesome.com/88bc3d5a38.js" crossorigin="anonymous"></script>
+
+    <!-- API JavaScript file -->
+    <script src="script.js"></script>
+</body>
+
+</html>

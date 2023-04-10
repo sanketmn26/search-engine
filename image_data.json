@@ -1,0 +1,1965 @@
+{
+    "request": {
+        "hl": "en",
+        "query": "ronaldo",
+        "suggestion_query": null,
+        "cursor": null
+    },
+    "response": {
+        "next_cursor": "CAE=:GGggAA==",
+        "suggestions": [
+            {
+                "text": "wallpaper",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQX6aEV9NQizNQ6c_7dAK_Cnk7xqqLWT3yDzmVODme-IedMpkK&usqp=CAU",
+                "query": "q:ronaldo,g_1:wallpaper:Qv8MU-nEKQM="
+            },
+            {
+                "text": "portugal",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHIzRU6X4ENC3FtsbsI07x_7-WB9R_P3kZ_Ungfe04IjU9mdeF&usqp=CAU",
+                "query": "q:ronaldo,g_1:portugal:KSPjRzvY0n4="
+            },
+            {
+                "text": "wife",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4S90--T3-aOtwZcF8aKFUED8ljUfCiiAzkhXB2No8OClcn0tt&usqp=CAU",
+                "query": "q:ronaldo,g_1:wife:_uw_CHkaE2k="
+            },
+            {
+                "text": "celebration",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Dvpbmlw3MQ6QytxTkFTPRhcx0R8nH5AbbvqggU0M5H5fPJPO&usqp=CAU",
+                "query": "q:ronaldo,g_1:celebration:fQBTinwk6S0="
+            },
+            {
+                "text": "manchester united",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvznJdWl78LbSpFSFbvIoK6aWi7xl2bUJnHM-WSLcovc-JULQJ&usqp=CAU",
+                "query": "q:ronaldo,g_1:manchester united:haBKbQ-dHyw="
+            },
+            {
+                "text": "world cup",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7hzfiKNDJCqu2KN9FOFCCvMdgENl1oAbpZsStuFRkH7ADrj2R&usqp=CAU",
+                "query": "q:ronaldo,g_1:world cup:ZMQEZ7DAvko="
+            },
+            {
+                "text": "family",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv8F2zo-xYQmKfY4ekGlJ8eqCou_3WGz2kOgZGNzg&usqp=CAU",
+                "query": "q:ronaldo,g_1:family:dcI5Anzc7-k="
+            },
+            {
+                "text": "georgina",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8OCUIgSBfO7I6zugNwnUg995_cMdMPijAV4vN9dSkzaGH4l2L&usqp=CAU",
+                "query": "q:ronaldo,g_1:georgina:IdqUttSr_V8="
+            },
+            {
+                "text": "iphone",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXZdRVoXl8NIpRd_CENyk7IYiDbSK_Ywrgjdz1kr9keq0bhM5a&usqp=CAU",
+                "query": "q:ronaldo,g_1:iphone:G7hWW3qccrE="
+            },
+            {
+                "text": "hairstyle",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbW9oXThZuD6mpWPoWPl3vL06Sa7pQrdlUSUpEBaF_aVIQI3v&usqp=CAU",
+                "query": "q:ronaldo,g_1:hairstyle:OWv9iQCU7To="
+            },
+            {
+                "text": "drawing",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8aDuqCyTi4MaWuM_Bza0gTwPoJDSwEFliCj3lXiEnzTXe1Rt&usqp=CAU",
+                "query": "q:ronaldo,g_1:drawing:nXXJRk3L7W0="
+            },
+            {
+                "text": "real",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsPNaJLvn9In7-p_Yy3znTtvmi5Z1JWHydsk7ORWypwC7H8ray&usqp=CAU",
+                "query": "q:ronaldo,g_1:real:GEt9a7Cmyt0="
+            },
+            {
+                "text": "style",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmsg6FmXEWhPW6oaM4h-gH-Jm_VvK7j0uQhxyzcEJQha9aM7X&usqp=CAU",
+                "query": "q:ronaldo,g_1:style:48AYLHVlKL4="
+            },
+            {
+                "text": "jersey",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStxRxEHJBxxnpj6_BKppSiPfgo5K80xtiFFuXLcMo&usqp=CAU",
+                "query": "q:ronaldo,g_1:jersey:Rc3i3aydzQc="
+            },
+            {
+                "text": "madrid",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlSJUVCR00yJbNhp4w7G-iOHkTrfpQLHgsF0IDNzQ&usqp=CAU",
+                "query": "q:ronaldo,g_1:madrid:_zYwpvAec0o="
+            },
+            {
+                "text": "cool",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfQTkJ0MpUpRvgUvMcnCGVoWjZA7ZP3ANYZnozOQiCK82-Ayqn&usqp=CAU",
+                "query": "q:ronaldo,g_1:cool:DHRvZuljJnA="
+            },
+            {
+                "text": "soccer player",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEZtsoCy69VzVz4n3jNQdXRuLZEtVHuLbHYgSnJm28XU-ap6Ds&usqp=CAU",
+                "query": "q:ronaldo,g_1:soccer player:mjnxfMOqAOA="
+            },
+            {
+                "text": "son",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS5tIoybMtFcWq7RF-V6iF9iGtWrzKjCb_zoJOIj2chpZ2kAvT&usqp=CAU",
+                "query": "q:ronaldo,g_1:son:MdWIx_kwLcQ="
+            },
+            {
+                "text": "lock screen",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg3pjxK1n7IqT9dGVUAkVchNdehzkW63E072VsuSVeFThba-6h&usqp=CAU",
+                "query": "q:ronaldo,g_1:lock screen:hXj3cnbL6-o="
+            },
+            {
+                "text": "new",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xNqndkQhZzZVh86L_pk6JTP9LRmazuZuHCanAlX1yMgXlFj8&usqp=CAU",
+                "query": "q:ronaldo,g_1:new:Th9TrQWakK8="
+            },
+            {
+                "text": "irina shayk",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFl_qHQHPwMHnOzAEky9vZxN09kdIQGFT6t8oI3JQcclhKh5w&usqp=CAU",
+                "query": "q:ronaldo,g_1:irina shayk:dQ2AEiE-V2k="
+            },
+            {
+                "text": "kid",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvY6ztXc1GAoN9PYrdAehgbvSaXqFEVh94OhcTMO6Vvwyv90kI&usqp=CAU",
+                "query": "q:ronaldo,g_1:kid:cNa97-g_Xqk="
+            },
+            {
+                "text": "shirt",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-OhQQYdOQ-shbFwOFtTT1kXXkFpScqIJxy4hblk&usqp=CAU",
+                "query": "q:ronaldo,g_1:shirt:s4cDeIwEjbE="
+            },
+            {
+                "text": "nike",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGprQQg85hUjfIpMkT5vDi82tFjTjoqTeTjW-48_imVTBW4WW2&usqp=CAU",
+                "query": "q:ronaldo,g_1:nike:N-c_NlI8NfE="
+            },
+            {
+                "text": "house",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLahEzWk3zZu0QkdUiX2PVn5_ZpweGrT6aoXYdY3N7M7iZx6NP&usqp=CAU",
+                "query": "q:ronaldo,g_1:house:EX-DF3OpCAM="
+            },
+            {
+                "text": "junior",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaH9_C_8KbWBaCHSmfT7kDDIsgqhZePuiaZpLWEYCPZYbsul3&usqp=CAU",
+                "query": "q:ronaldo,g_1:junior:OOjRU-b4ICQ="
+            },
+            {
+                "text": "instagram",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyLR4Us1l8xYOCF5P_xbKSf9mjKEmBilPKl3Y4HBpymCF8awZ&usqp=CAU",
+                "query": "q:ronaldo,g_1:instagram:fkIG7tLnmmk="
+            },
+            {
+                "text": "full hd",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBd9HSna5frdG9c87QNvuNOJNee4x3FCULntpln8CIEuBhOPkY&usqp=CAU",
+                "query": "q:ronaldo,g_1:full hd:wR7zikkv60o="
+            },
+            {
+                "text": "trophy",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaZrfjWQsgf5W2_2tdOTtq4oV387fVW7z9L6qPKWVnppUGi4yz&usqp=CAU",
+                "query": "q:ronaldo,g_1:trophy:Z2mPbx_0hIw="
+            },
+            {
+                "text": "euro",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg9TopvTarFgMkGIn2vX-08cAcP0ZQiRuVXTWZ4eMX_lLCRKBm&usqp=CAU",
+                "query": "q:ronaldo,g_1:euro:Vqo_T0NrT1E="
+            }
+        ],
+        "images": [
+            {
+                "source": {
+                    "name": "Wikipedia",
+                    "page": "https://de.wikipedia.org/wiki/Cristiano_Ronaldo",
+                    "title": "Cristiano Ronaldo – Wikipedia"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0SWf8Bw4izjY_r_YXxdaRA9e35IFJ_GyUaXzbMzUmulT8rA3BjhaKZDT4lTAciUYL1eY&usqp=CAU",
+                    "height": 275,
+                    "width": 183
+                },
+                "image": {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg",
+                    "height": 921,
+                    "width": 614
+                },
+                "dominantColor": "rgb(216,62,82)"
+            },
+            {
+                "source": {
+                    "name": "DW",
+                    "page": "https://www.dw.com/de/cristiano-ronaldo-vor-wechsel-nach-saudi-arabien/a-63940710",
+                    "title": "Cristiano Ronaldo vor Wechsel nach Saudi-Arabien | Sport | DW | 30.11.2022"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ25YhjSVioRVOyp79qXrQuMu2v5DkUvACEo0nhombbiLxFvScPQj8E2WMqO3eRXZcZHv4&usqp=CAU",
+                    "height": 168,
+                    "width": 299
+                },
+                "image": {
+                    "url": "https://static.dw.com/image/63878119_303.jpg",
+                    "height": 394,
+                    "width": 700
+                },
+                "dominantColor": "rgb(160,58,51)"
+            },
+            {
+                "source": {
+                    "name": "Transfermarkt",
+                    "page": "https://www.transfermarkt.com/cristiano-ronaldo/profil/spieler/8198",
+                    "title": "Cristiano Ronaldo - Player profile 22/23 | Transfermarkt"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN_a4-tYwfwNf1o90uCFCzEzZLWy4BW78J1e1h0vYMkztpPPXWAzX8JU6IlEqAWpAkC-A&usqp=CAU",
+                    "height": 256,
+                    "width": 197
+                },
+                "image": {
+                    "url": "https://img.a.transfermarkt.technology/portrait/big/8198-1673305564.jpg?lm=1",
+                    "height": 390,
+                    "width": 300
+                },
+                "dominantColor": "rgb(138,131,240)"
+            },
+            {
+                "source": {
+                    "name": "Sportbuzzer",
+                    "page": "https://www.sportbuzzer.de/artikel/cristiano-ronaldo-keine-einigung-mit-al-nassr-wechsel-gerucht-bericht/",
+                    "title": "Ronaldo doch nicht einig mit Al-Nassr: Transfer in Europa? - Sportbuzzer.de"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOeKSOOHWnm1O5hh0Qq6oIP-Dkxd826M2Ssn5g8-DoE7YsAsTFsWOX87yIV29uDR0-TQo&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://images.sportbuzzer.de/v1/photos/raw/cristiano-ronaldo-por-november-28-2022-football-soccer-fifa-world-cup-wm-weltmei/regular-16-9",
+                    "height": 506,
+                    "width": 900
+                },
+                "dominantColor": "rgb(152,50,50)"
+            },
+            {
+                "source": {
+                    "name": "www.fr.de",
+                    "page": "https://www.fr.de/sport/fussball/cristiano-ronaldo-cr7-portugal-juventus-turin-real-madrid-manchester-united-rekorde-erfolge-funchal-90784706.html",
+                    "title": "Cristiano Ronaldo – Karriere und Rekorde des portugiesischen Fußballers"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLrz4vR8HDlUdFV_JGpzV9_PkExrxiYk1WlOM5cQwyymdllLTL2pEnj8QcEVzgxOUHxPo&usqp=CAU",
+                    "height": 225,
+                    "width": 225
+                },
+                "image": {
+                    "url": "https://www.fr.de/bilder/2021/05/26/90784706/27957076-so-sieht-der-echte-cristiano-ronaldo-von-vorne-aus-2MOblnXIVdec.jpg",
+                    "height": 2400,
+                    "width": 2400
+                },
+                "dominantColor": "rgb(96,29,32)"
+            },
+            {
+                "source": {
+                    "name": "CNN",
+                    "page": "https://www.cnn.com/2023/01/05/football/amnesty-international-cristiano-ronaldo-saudi-arabia-spt-intl/index.html",
+                    "title": "Cristiano Ronaldo: Amnesty International asks soccer superstar to 'draw  attention to human rights issues' in Saudi Arabia | CNN"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH4Lv7FHwrOHkVHImCygDhY1BNhIPttM2IzYAw_wC3H-dGbxNLGDlKgBDwZuLPlrlz1X8&usqp=CAU",
+                    "height": 180,
+                    "width": 281
+                },
+                "image": {
+                    "url": "https://media.cnn.com/api/v1/images/stellar/prod/230105120520-ronaldo-al-nassr.jpg?c=original",
+                    "height": 2692,
+                    "width": 4201
+                },
+                "dominantColor": "rgb(222,244,119)"
+            },
+            {
+                "source": {
+                    "name": "Spiegel",
+                    "page": "https://www.spiegel.de/sport/fussball/cristiano-ronaldo-offiziell-bei-al-nasr-in-saudi-arabien-vorgestellt-a-f6afd702-02a4-4b03-9b5c-4d732987a870",
+                    "title": "Cristiano Ronaldo offiziell bei Al Nassr in Saudi-Arabien vorgestellt - DER  SPIEGEL"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wLUv_uIQ1v7YR6911TlzmTUkVI_cifyt97XteVe9cZ5iyrlj-dgf-zXblQjZ4cgdSbw&usqp=CAU",
+                    "height": 193,
+                    "width": 261
+                },
+                "image": {
+                    "url": "https://cdn.prod.www.spiegel.de/images/de51587c-d0ca-4a70-8e39-504e1a724bcf_w1600_r1.346376811594203_fpx49_fpy48.jpg",
+                    "height": 1188,
+                    "width": 1600
+                },
+                "dominantColor": "rgb(24,21,24)"
+            },
+            {
+                "source": {
+                    "name": "GQ Germany",
+                    "page": "https://www.gq-magazin.de/entertainment/artikel/cristiano-ronaldo-eroeffnet-hotel-new-york-city",
+                    "title": "Cristiano Ronaldo eröffnet sein Hotel in New York City (mit Zimmern ab 85  Euro pro Nacht) | GQ Germany"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjvo1pBJBlrcKW4ZrcmtpsNTL-s5UICPHykitXo7c4hVsHsdglMt2Q1eeD5-yqUv28ZqA&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://media.gq-magazin.de/photos/60ec0e9411aa062eef6d7b19/master/pass/Ronaldo-GettyImages-1325777568.jpg",
+                    "height": 2000,
+                    "width": 3000
+                },
+                "dominantColor": "rgb(101,210,248)"
+            },
+            {
+                "source": {
+                    "name": "Gala",
+                    "page": "https://www.gala.de/stars/starportraets/cristiano-ronaldo-20487348.html",
+                    "title": "Cristiano Ronaldo - Starporträt, News, Bilder | GALA.de"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQklIbGuoS78apNcErAdIpWY6M-05YQrJYkde1eI-_XTCkJu5hlG8U-KymsCaV9S5nrZBQ&usqp=CAU",
+                    "height": 275,
+                    "width": 183
+                },
+                "image": {
+                    "url": "https://image.gala.de/22864846/t/du/v17/w960/r0.6667/-/cristiano-ronaldo.jpg",
+                    "height": 1440,
+                    "width": 960
+                },
+                "dominantColor": "rgb(160,58,51)"
+            },
+            {
+                "source": {
+                    "name": "Sportbuzzer",
+                    "page": "https://www.sportbuzzer.de/artikel/cristiano-ronaldo-portugal-nationalmannschaft-entscheidung-karriere-reaktionen/",
+                    "title": "Bericht: Cristiano Ronaldo sieht Zukunft in Portugal-Team - Sportbuzzer.de"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCBm3WXIzUgCWTh7dD1w5PupaMQsslMp7gMgrxHrdkC82azQkVohG4N45NGLYt0T8NdmI&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://images.sportbuzzer.de/v1/photos/raw/cristiano-ronaldo-of-portugal-celebrates-a-goal-today-during-a-group-stage-match/regular-16-9",
+                    "height": 506,
+                    "width": 900
+                },
+                "dominantColor": "rgb(160,54,51)"
+            },
+            {
+                "source": {
+                    "name": "Forbes",
+                    "page": "https://www.forbes.com/profile/cristiano-ronaldo/",
+                    "title": "Cristiano Ronaldo"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMA7pWrn7_DIgwLbs7B0z3fnrUiuUEeC-ZJR11A1L07I4zcbYHyr1GkpNpZgZhT4qEEsk&usqp=CAU",
+                    "height": 225,
+                    "width": 225
+                },
+                "image": {
+                    "url": "https://imageio.forbes.com/specials-images/imageserve/627bd291633f3fbbcda36428/0x0.jpg?format=jpg&crop=2057,2059,x918,y85,safe&height=416&width=416&fit=bounds",
+                    "height": 416,
+                    "width": 416
+                },
+                "dominantColor": "rgb(160,54,58)"
+            },
+            {
+                "source": {
+                    "name": "Sky Sport",
+                    "page": "https://sport.sky.de/fussball/artikel/transfer-news-heuert-cristiano-ronaldo-in-saudi-arabien-an/12767422/34240",
+                    "title": "Transfer News: Heuert Cristiano Ronaldo in Saudi-Arabien an? | Fußball News  | Sky Sport"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttWqXZpvHp71ujSfmieo2-Wfa9nIC9vlqm7nB1hsW0GqQUm-dsfaBYtRb-eRvOqMlChA&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://e6.365dm.de/22/11/768x432/skysport_de-ronaldo-portugal_5980926.jpg?20221128204018",
+                    "height": 432,
+                    "width": 768
+                },
+                "dominantColor": "rgb(96,32,38)"
+            },
+            {
+                "source": {
+                    "name": "Tagesschau",
+                    "page": "https://www.tagesschau.de/sport/sportschau/manchester-united-trennt-sich-von-ronaldo-103.html",
+                    "title": "Weltstar ohne Verein: Manchester United trennt sich von Ronaldo |  tagesschau.de"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVf_vUmbkUF708ARgbgnXGoXkymRvpGKLrgwHPZ_VOYZ8nH11kMJJOfTzAo2BK07uIYbE&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://www.tagesschau.de/sport/sportschau/sportschau-image-137525~_v-videowebm.jpg",
+                    "height": 288,
+                    "width": 512
+                },
+                "dominantColor": "rgb(24,18,11)"
+            },
+            {
+                "source": {
+                    "name": "Spiegel",
+                    "page": "https://www.spiegel.de/sport/fussball/premier-league-cristiano-ronaldo-trifft-nach-langer-durstrecke-wieder-fuer-manchester-united-a-985c40dd-2662-4873-b725-3e11d9100265",
+                    "title": "Premier League: Cristiano Ronaldo trifft nach langer Durstrecke wieder für  Manchester United - DER SPIEGEL"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl4DcPf9C5LiHEQTPlKN8T7V1ySqI8gXyVwFnVEW8dB8AXCE0Y1lK7nMfFNfTS4oktFz8&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://cdn.prod.www.spiegel.de/images/fca86baf-0475-4d56-a0b4-15a88ee65c99_w948_r1.778_fpx57_fpy47.jpg",
+                    "height": 533,
+                    "width": 948
+                },
+                "dominantColor": "rgb(216,72,75)"
+            },
+            {
+                "source": {
+                    "name": "CNN",
+                    "page": "https://www.cnn.com/2023/01/06/football/ronaldo-saudi-soccer-sport-mime-intl/index.html",
+                    "title": "Why Cristiano Ronaldo's move to Saudi Arabia means so much for the Gulf  monarchy's sporting ambitions | CNN"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXNlqVjG_XI4VHGSYvg3rwL66kk1gfob-5SduxRNDecRM0gNMT3XbsTni7TPGk5bmJrMs&usqp=CAU",
+                    "height": 180,
+                    "width": 281
+                },
+                "image": {
+                    "url": "https://media.cnn.com/api/v1/images/stellar/prod/230105083241-01-ronaldo-al-nassr-010323.jpg?c=original",
+                    "height": 2692,
+                    "width": 4201
+                },
+                "dominantColor": "rgb(195,208,93)"
+            },
+            {
+                "source": {
+                    "name": "GQ Germany",
+                    "page": "https://www.gq-magazin.de/body-care/artikel/kaeltetherapie-cristiano-ronaldo-kryotherapie-regeneration-fussball-training-geheimnis",
+                    "title": "Cristiano Ronaldo: Diese Kryotherapie macht den Fußballstar unbesiegbar! |  GQ Germany"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBpbhBjrwngodnncPrYbU7ZNnPqKnth03oiKf_-EzH8XVa_54fp_1dg4XsUJVJRPXBIgQ&usqp=CAU",
+                    "height": 259,
+                    "width": 194
+                },
+                "image": {
+                    "url": "https://media.gq-magazin.de/photos/620eab77298b3da8c3197d45/3:4/w_1500,h_2000,c_limit/BodyCare_Fitness_CristianoRonaldo_Kryotherapie.jpg",
+                    "height": 2000,
+                    "width": 1500
+                },
+                "dominantColor": "rgb(152,34,50)"
+            },
+            {
+                "source": {
+                    "name": "LigaInsider",
+                    "page": "https://www.ligainsider.de/cristiano-ronaldo_4486/",
+                    "title": "Cristiano Ronaldo: Spielerprofil 2022/23 - alle News und Statistiken"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEccLIZ9E4_J7WleDZ602i8G05yH1a23HjQOt_bk7jQkN0OKewix0AWy2HhviZqcehogQ&usqp=CAU",
+                    "height": 227,
+                    "width": 222
+                },
+                "image": {
+                    "url": "https://cdn.ligainsider.de/images/player/team/large/cristiano-ronaldo-manchester-united.jpg",
+                    "height": 430,
+                    "width": 421
+                },
+                "dominantColor": "rgb(208,80,80)"
+            },
+            {
+                "source": {
+                    "name": "Eurosport",
+                    "page": "https://www.eurosport.de/fussball/wm/2022/cristiano-ronaldo-lasst-seine-zukunft-bei-portugal-offen-neuer-trainer-als-entscheidender-faktor_sto9273166/story.shtml",
+                    "title": "WM 2022: Cristiano Ronaldo lässt seine Zukunft bei Portugal offen - Neuer  Trainer als entscheidender Faktor - Eurosport"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Jq0-F9xkBsGtToBtdpkgN9TOA58DJzyySHcLhbRP35gVB_snGBecPTdMwm6RqaCXLX0&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg):focal(1183x636:1185x634)/origin-imgresizer.eurosport.com/2022/12/11/3507051-71488188-2560-1440.jpg",
+                    "height": 675,
+                    "width": 1200
+                },
+                "dominantColor": "rgb(160,38,32)"
+            },
+            {
+                "source": {
+                    "name": "BILD.de",
+                    "page": "https://www.bild.de/sport/fussball/europa-league/cristiano-ronaldo-nach-suspendierung-in-startelf-cr7-zeigts-allen-81757842.bild.html",
+                    "title": "Cristiano Ronaldo: Nach Suspendierung in Startelf – CR7 zeigt's allen! |  Sport | BILD.de"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd0WsiJTT30Kdzj0wqm0-ohxtMkBVjGiQ_EjEVM54ZBVOQbSJd0stmITCIWClBtyXScgQ&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://images.bild.de/635ae3e0e146ff35a368e061/a8a22cdde6f91fdebfa2cf945942edcf,fad0fb8f?w=992",
+                    "height": 558,
+                    "width": 992
+                },
+                "dominantColor": "rgb(152,40,43)"
+            },
+            {
+                "source": {
+                    "name": "Kicker",
+                    "page": "https://www.kicker.de/nach-attacke-gegen-fan-fa-klagt-cristiano-ronaldo-an-918675/artikel",
+                    "title": "Nach Attacke gegen Fan: FA klagt Cristiano Ronaldo an - kicker"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM9sMga-IJu0skuipBzvJJ9lJDB54O1fSZaWI5wjBdEWuQ5Mseo7jL-D27m-EtFSK1B_0&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://derivates.kicker.de/image/upload/c_crop,x_0,y_161,w_2856,h_1606/w_1000,q_auto/v1/2022/09/23/0f77be44-efd0-4e4e-91e0-a21aa5293c62.jpeg",
+                    "height": 562,
+                    "width": 1000
+                },
+                "dominantColor": "rgb(24,18,18)"
+            },
+            {
+                "source": {
+                    "name": "FIFA",
+                    "page": "https://www.fifa.com/fifaplus/de/articles/ronaldo-verbluefft-spanien-88-or-100-denkwuerdige-wm-momente",
+                    "title": "Ronaldo verblüfft Spanien (88) | 100 denkwürdige WM-Momente"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcchHVCf126hg9Ukxn5OE0TbwO5vFVmzgWzA&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://cloudinary.fifa.com/m/ccd87e1119d19a47/original/cauyyjh8d5qr7uynmgxr-jpg.jpg",
+                    "height": 2000,
+                    "width": 3000
+                },
+                "dominantColor": "rgb(42,106,144)"
+            },
+            {
+                "source": {
+                    "name": "Planet Sport",
+                    "page": "https://www.planetsport.com/soccer/cristiano-ronaldo",
+                    "title": "Cristiano Ronaldo Profile | PlanetSport"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8W7IH9RUBuhGZfGXRdRfe3--bp8RTQ35PXA&usqp=CAU",
+                    "height": 225,
+                    "width": 225
+                },
+                "image": {
+                    "url": "https://www.planetsport.com/image-library/square/1200/c/cristiano-ronaldo-portugal-5-june-2022.jpg",
+                    "height": 1200,
+                    "width": 1200
+                },
+                "dominantColor": "rgb(120,24,37)"
+            },
+            {
+                "source": {
+                    "name": "WELT",
+                    "page": "https://www.welt.de/sport/fussball/article242839115/Ronaldo-soll-astronomischer-Vertrag-aus-Saudi-Arabien-vorliegen.html",
+                    "title": "Ronaldo soll astronomischer Vertrag aus Saudi-Arabien vorliegen - WELT"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFx5qJquyeMWT2aiMg0JLf7E-Dug-rDW2DsQ&usqp=CAU",
+                    "height": 222,
+                    "width": 227
+                },
+                "image": {
+                    "url": "https://img.welt.de/img/sport/mobile242839505/2082508447-ci102l-w1024/Cristiano-Ronaldo.jpg",
+                    "height": 1001,
+                    "width": 1024
+                },
+                "dominantColor": "rgb(160,48,51)"
+            },
+            {
+                "source": {
+                    "name": "Sport1",
+                    "page": "https://www.sport1.de/news/internationaler-fussball/premier-league/2022/10/cristiano-ronaldo-zum-showdown-erschienen-aussprache-bei-manchester-united",
+                    "title": "Cristiano Ronaldo nach Suspendierung zurück im Training - wie geht's bei  Manchester United weiter?"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgh9v2tR08P86sfOOEP8ivVQ0pOr7IGR3l_g&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://reshape.sport1.de/c/v/1FF32FEA-ABBE-41D0-8203-AD2602448851/468x263",
+                    "height": 263,
+                    "width": 468
+                },
+                "dominantColor": "rgb(152,46,50)"
+            },
+            {
+                "source": {
+                    "name": "WEB.DE",
+                    "page": "https://web.de/magazine/sport/thema/cristiano-ronaldo",
+                    "title": "Cristiano Ronaldo | Steckbrief, Bilder und News | WEB.DE"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk0lg3bRFPYrUkd8viI9bKite6UgG3OcgS4Q&usqp=CAU",
+                    "height": 275,
+                    "width": 183
+                },
+                "image": {
+                    "url": "https://i0.web.de/image/960/36438960,pd=1,f=size-l/cristiano-ronaldo.jpg",
+                    "height": 680,
+                    "width": 453
+                },
+                "dominantColor": "rgb(56,53,56)"
+            },
+            {
+                "source": {
+                    "name": "Spiegel",
+                    "page": "https://www.spiegel.de/sport/fussball/cristiano-ronaldo-debuet-fuer-al-nassr-verzoegert-sich-wegen-starkregens-a-572f0d6f-2063-4f1b-9ff1-ff796b874029",
+                    "title": "Cristiano Ronaldo: Debüt für Al Nassr verzögert sich wegen Starkregens -  DER SPIEGEL"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhXyyryDSvNl3Z_9Fo1Mzx22a5iR5cZLI6dw&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://cdn.prod.www.spiegel.de/images/01275f98-cbce-4cc4-a9e9-b6181383134f_w948_r1.778_fpx33.34_fpy50.jpg",
+                    "height": 533,
+                    "width": 948
+                },
+                "dominantColor": "rgb(96,83,64)"
+            },
+            {
+                "source": {
+                    "name": "Fussball Europa",
+                    "page": "https://www.fussballeuropa.com/news/manchester-united-enthullt-cristiano-ronaldo-wollte-gehalt-drastisch-senken-2022-12",
+                    "title": "Enthüllt: Cristiano Ronaldo wollte Gehaltsforderungen drastisch senken"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_cdfv9EsdS44S5rRdkvQwDV2rzIKAY5JwPQ&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://www.fussballeuropa.com/images/xtra/getty-cristiano-ronaldo-22121207.jpg",
+                    "height": 1066,
+                    "width": 1600
+                },
+                "dominantColor": "rgb(16,16,16)"
+            },
+            {
+                "source": {
+                    "name": "Sky Sport",
+                    "page": "https://sport.sky.de/fussball/artikel/cristiano-ronaldo-spricht-ueber-em-2024-in-deutschland-mit-portugal/12702485/34709",
+                    "title": "Cristiano Ronaldo spricht über EM 2024 in Deutschland mit Portugal |  Fußball News | Sky Sport"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW_TfH9sggb5tdStWAyBXwaqS1Ka9A8JRgkA&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://e6.365dm.de/22/09/1600x900/skysport_de-ronaldo-portugal_5906577.jpg?20220921112110",
+                    "height": 900,
+                    "width": 1600
+                },
+                "dominantColor": "rgb(152,37,50)"
+            },
+            {
+                "source": {
+                    "name": "Fussball Transfers",
+                    "page": "https://www.fussballtransfers.com/a6667504842875385163-spanier-berichten-ronaldo-zukunft-geklaert",
+                    "title": "Spanier berichten: Ronaldo-Zukunft geklärt"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuPYatHZaOaLvWu2Ls-qypNsSn1jv5d6Ny5w&usqp=CAU",
+                    "height": 225,
+                    "width": 225
+                },
+                "image": {
+                    "url": "https://assets-de.imgfoot.com/media/cache/1200x1200/cristiano-ronaldo-wc-22-1.jpg",
+                    "height": 1200,
+                    "width": 1200
+                },
+                "dominantColor": "rgb(160,42,58)"
+            },
+            {
+                "source": {
+                    "name": "WELT",
+                    "page": "https://www.welt.de/sport/fussball/article241511241/Manchester-United-Cristiano-Ronaldo-meldet-sich-mit-einem-Rekord-zurueck.html",
+                    "title": "Manchester United: Cristiano Ronaldo meldet sich mit einem Rekord zurück -  WELT"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgy2LCw2s1moHVprZ2CQKzXMsqP3_Tovl2A&usqp=CAU",
+                    "height": 222,
+                    "width": 227
+                },
+                "image": {
+                    "url": "https://img.welt.de/img/sport/mobile241512309/9442506437-ci102l-w1024/Everton-FC-v-Manchester-United-Premier-League.jpg",
+                    "height": 1001,
+                    "width": 1024
+                },
+                "dominantColor": "rgb(32,51,96)"
+            },
+            {
+                "source": {
+                    "name": "Al Jazeera",
+                    "page": "https://www.aljazeera.com/news/2023/1/11/ronaldo-has-no-clause-in-contract-to-back-saudi-world-cup-bid",
+                    "title": "Ronaldo 'has no clause' in contract to back Saudi World Cup bid | News | Al  Jazeera"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmpgP-uz_TW1rCNZo7zzRlib66SYakudetmA&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://www.aljazeera.com/wp-content/uploads/2022/12/29875431.jpg?resize=770%2C513&quality=80",
+                    "height": 513,
+                    "width": 770
+                },
+                "dominantColor": "rgb(192,182,173)"
+            },
+            {
+                "source": {
+                    "name": "Sport-Bild - BILD.de",
+                    "page": "https://sportbild.bild.de/fussball/wm-2022/fifa-wm-2022/cristiano-ronaldo-meldet-sich-erstmals-nach-messis-wm-sieg-82338652.sport.html",
+                    "title": "Cristiano Ronaldo meldet sich erstmals nach Messis WM-Sieg - FUSSBALL -  SPORT BILD"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGw29JWLjwmoV0O_d7TQXrYIJt5BmzirOtZQ&usqp=CAU",
+                    "height": 168,
+                    "width": 299
+                },
+                "image": {
+                    "url": "https://sportbild.bild.de/fotos-skaliert/fuer-cristiano-ronaldo-war-es-keine-erfolgreiche-wm-2e78ae8818964d13a4e200901ac5b164-82338936/3,w=993,c=0.sport.jpg",
+                    "height": 559,
+                    "width": 993
+                },
+                "dominantColor": "rgb(80,80,74)"
+            },
+            {
+                "source": {
+                    "name": "Die Zeit",
+                    "page": "https://www.zeit.de/sport/2022-11/christiano-ronaldo-manchester-united-fussball-interview",
+                    "title": "Fußball: Cristiano Ronaldo verlässt Manchester United | ZEIT ONLINE"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8XYRcMA11F4BqcdhNb4d-S3FJs1vPMcqaBg&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://img.zeit.de/sport/2022-11/ronaldo-manchester-united/wide__980x551",
+                    "height": 551,
+                    "width": 980
+                },
+                "dominantColor": "rgb(16,13,16)"
+            },
+            {
+                "source": {
+                    "name": "AP News",
+                    "page": "https://apnews.com/article/world-cup-sports-portugal-cristiano-ronaldo-fernando-santos-de9e65b89373f87559dc8ea75a145fbd",
+                    "title": "Ronaldo fails again in likely last chance to win World Cup | AP News"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSW7eW72CtfxQ5lXdTLWU9KxJQ7xFvWDC8Ew&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://storage.googleapis.com/afs-prod/media/7d7380d2633d4aa3a8b9b5b0459e01ed/2629.webp",
+                    "height": 1753,
+                    "width": 2629
+                },
+                "dominantColor": "rgb(226,232,226)"
+            },
+            {
+                "source": {
+                    "name": "Sportbuzzer",
+                    "page": "https://www.sportbuzzer.de/artikel/cristiano-ronaldo-newcastle-klausel-trainer-howe-champions-league-reaktion/",
+                    "title": "CL-Klausel bei Cristiano Ronaldo? Das sagt der Newcastle-Trainer -  Sportbuzzer.de"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1DQWDPL2MSOMWNIfKomyaDWzGxTWSXWtJw&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://images.sportbuzzer.de/v1/photos/raw/riyadh-saudi-arabia-january-03-al-nassr-s-new-forward-cristiano-ronaldo-greets-t/regular-16-9",
+                    "height": 506,
+                    "width": 900
+                },
+                "dominantColor": "rgb(18,21,24)"
+            },
+            {
+                "source": {
+                    "name": "FOX Sports",
+                    "page": "https://www.foxsports.com/soccer/cristiano-ronaldo-player",
+                    "title": "Cristiano Ronaldo - SOCCER News, Rumors, & Updates | FOX Sports"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ97p-Dvc-_AnZJpQ0oV9w1QclIaKFisIjspQ&usqp=CAU",
+                    "height": 225,
+                    "width": 225
+                },
+                "image": {
+                    "url": "https://b.fssta.com/uploads/application/soccer/headshots/885.vresize.350.350.medium.14.png",
+                    "height": 350,
+                    "width": 350
+                },
+                "dominantColor": "rgb(249,252,249)"
+            },
+            {
+                "source": {
+                    "name": "Eurosport",
+                    "page": "https://www.eurosport.de/fussball/premier-league/2022-2023/cristiano-ronaldo-konnte-nach-england-zuruckkehren-mega-vertrag-enthalt-klausel-fur-newcastle-united_sto9297700/story.shtml",
+                    "title": "Cristiano Ronaldo könnte nach England zurückkehren - Mega-Vertrag enthält  Klausel für Newcastle United - Eurosport"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqDV1syZf5P5OgoN0UOJCyBfqhcI66C0L9Iw&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg):focal(1336x367:1338x365)/origin-imgresizer.eurosport.com/2022/12/14/3508231-71511788-2560-1440.jpg",
+                    "height": 675,
+                    "width": 1200
+                },
+                "dominantColor": "rgb(18,18,24)"
+            },
+            {
+                "source": {
+                    "name": "RP Online",
+                    "page": "https://rp-online.de/sport/fussball/wm/letztes-wm-spiel-cristiano-ronaldo-verliert-mit-portugal-gegen-marokko-abschied-mit-traenen_bid-81292877",
+                    "title": "Letztes WM-Spiel: Cristiano Ronaldo verliert mit Portugal gegen Marokko -  Abschied mit Tränen"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiuUMB2suCE78i2BtbTq9LBDNRnpH50Jo3tA&usqp=CAU",
+                    "height": 177,
+                    "width": 284
+                },
+                "image": {
+                    "url": "https://rp-online.de/imgs/32/1/5/1/1/6/2/1/2/9/tok_e5c0456dea42105426d00b9c7ba44e20/w2100_h1313_x1607_y1071_AFP_fAFP_332U3QN-ad73a3ccac26583c.jpg",
+                    "height": 1313,
+                    "width": 2100
+                },
+                "dominantColor": "rgb(95,124,121)"
+            },
+            {
+                "source": {
+                    "name": "Sky Sports",
+                    "page": "https://www.skysports.com/football/news/11667/12646119/cristiano-ronaldo-manchester-united-unsure-if-striker-will-attend-pre-season-tour-of-thailand-and-australia",
+                    "title": "Cristiano Ronaldo: Manchester United unsure if striker will attend  pre-season tour of Thailand and Australia | Football News | Sky Sports"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQR8D7cQnLDyH6gUrBTq1AWXhV2UmuzGlR1g&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://e0.365dm.com/22/07/2048x1152/skysports-cristiano-ronaldo_5823297.jpg",
+                    "height": 1152,
+                    "width": 2048
+                },
+                "dominantColor": "rgb(160,51,58)"
+            },
+            {
+                "source": {
+                    "name": "Fussball Europa",
+                    "page": "https://www.fussballeuropa.com/news/manchester-united-trotz-reservebank-diogo-dalot-halt-ronaldo-weiterhin-fur-den-unterschiedsspieler-2022-09",
+                    "title": "Trotz Reservebank: Cristiano Ronaldo weiterhin der Unterschiedsspieler?"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyK697a-SeqIU0nqN7fn85twezq4uRCVL8Mg&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://www.fussballeuropa.com/images/xtra/getty-cristiano-ronaldo-220907.jpg",
+                    "height": 1066,
+                    "width": 1600
+                },
+                "dominantColor": "rgb(168,53,59)"
+            },
+            {
+                "source": {
+                    "name": "Al Jazeera",
+                    "page": "https://www.aljazeera.com/news/2022/12/26/erdogan-says-ronaldo-subjected-to-political-ban-at-world-cup",
+                    "title": "Ronaldo dropped because of 'political ban', says Erdogan | World Cup News |  Al Jazeera"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcHAvIny22NJoLBKU4UGZQAIcyB4qFb563bg&usqp=CAU",
+                    "height": 225,
+                    "width": 225
+                },
+                "image": {
+                    "url": "https://www.aljazeera.com/wp-content/uploads/2022/12/SOR03134.jpg?resize=1800%2C1800",
+                    "height": 1800,
+                    "width": 1800
+                },
+                "dominantColor": "rgb(124,172,169)"
+            },
+            {
+                "source": {
+                    "name": "Stern",
+                    "page": "https://www.stern.de/sport/fussball/manchester-united--cristiano-ronaldo-mit-hinweis-auf-verbleib-31822352.html",
+                    "title": "Manchester United: Cristiano Ronaldo mit Hinweis auf Verbleib | STERN.de"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx9FB3FNz80SN7BGsCYcJbm3xby7IZHeuj7w&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://image.stern.de/31822354/t/WS/v2/w1440/r1.7778/-/03--manchester-united--cristiano-ronaldo-mit-hinweis-auf-verbleib--aufmacher-.jpg",
+                    "height": 810,
+                    "width": 1440
+                },
+                "dominantColor": "rgb(35,42,48)"
+            },
+            {
+                "source": {
+                    "name": "RTL News",
+                    "page": "https://www.rtl.de/cms/nations-league-ploetzlich-liegt-cristiano-ronaldo-blutueberstroemt-auf-dem-boden-5008345.html",
+                    "title": "Nations League: Plötzlich liegt Cristiano Ronaldo blutüberströmt auf dem  Boden"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdyV8CAf7sEqol2rwSzJNAUt_OAd8TzBE_Q&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://ais-akamai.rtl.de/masters/1937017/1686x0/cristiano-ronaldo.jpg",
+                    "height": 948,
+                    "width": 1686
+                },
+                "dominantColor": "rgb(74,86,112)"
+            },
+            {
+                "source": {
+                    "name": "DW",
+                    "page": "https://www.dw.com/de/cristiano-ronaldo-stellt-wm-rekord-auf/a-63851999",
+                    "title": "Cristiano Ronaldo stellt WM-Rekord auf | Sport | DW | 24.11.2022"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrwvD3oZ2jQMo3yTLJS8lM8iXJzs7Lm5orQ&usqp=CAU",
+                    "height": 168,
+                    "width": 299
+                },
+                "image": {
+                    "url": "https://static.dw.com/image/63877834_6.jpg",
+                    "height": 529,
+                    "width": 940
+                },
+                "dominantColor": "rgb(152,50,69)"
+            },
+            {
+                "source": {
+                    "name": "The New Yorker",
+                    "page": "https://www.newyorker.com/sports/sporting-scene/cristiano-ronaldos-last-dance-in-manchester",
+                    "title": "Cristiano Ronaldo's Last Dance in Manchester | The New Yorker"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWWtyjN0SyjA2iZsjVeBDqg51OJCKKMOFAAg&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://media.newyorker.com/photos/61e87281b67066a13fd20ea8/master/w_2560%2Cc_limit/Caesar-Ronaldo.jpg",
+                    "height": 1706,
+                    "width": 2560
+                },
+                "dominantColor": "rgb(216,72,82)"
+            },
+            {
+                "source": {
+                    "name": "Los Angeles Times",
+                    "page": "https://www.latimes.com/sports/soccer/newsletter/2022-12-13/cristiano-ronaldo-world-cup-soccer",
+                    "title": "Soccer newsletter: Cristiano Ronaldo continues to tarnish his legacy - Los  Angeles Times"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfSaa0FfYANCMUikP4keLD_9TuvHAHUV1Ccg&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://ca-times.brightspotcdn.com/dims4/default/ea0faf8/2147483647/strip/true/crop/2395x1597+0+0/resize/1200x800!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb6%2F5a%2F922dfc0b4bac9f645bd01c5b885a%2Fwcup-portugal-uruguay-soccer-92176.jpg",
+                    "height": 800,
+                    "width": 1200
+                },
+                "dominantColor": "rgb(56,50,43)"
+            },
+            {
+                "source": {
+                    "name": "Luzerner Zeitung",
+                    "page": "https://www.luzernerzeitung.ch/sport/wm-gegner-portugal-superstar-cristiano-ronaldo-von-a-wie-alkoholiker-bis-z-wie-zigarette-ld.2383433",
+                    "title": "Cristiano Ronaldo: von A wie Alkoholiker bis Z wie Zigarette"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvqfbxPsftPIAuaCMebkTluJoJpt399ErQxA&usqp=CAU",
+                    "height": 274,
+                    "width": 184
+                },
+                "image": {
+                    "url": "https://img.chmedia.ch/2022/12/05/d4c1626e-7a18-4902-8f2f-f480c04a9a9a.jpeg?width=654&height=976&fit=bounds&quality=75&auto=webp&crop=1172,1750,x0,y0",
+                    "height": 976,
+                    "width": 654
+                },
+                "dominantColor": "rgb(240,240,234)"
+            },
+            {
+                "source": {
+                    "name": "The Guardian",
+                    "page": "https://www.theguardian.com/football/2023/jan/09/cristiano-ronaldo-could-face-lionel-messi-in-first-game-saudi-arabia-al-nassr-psg",
+                    "title": "Cristiano Ronaldo could face Lionel Messi for first game in Saudi Arabia |  Cristiano Ronaldo | The Guardian"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37Pt0d44f2UoETfOlucDRMdLfvPAH56cvfA&usqp=CAU",
+                    "height": 174,
+                    "width": 290
+                },
+                "image": {
+                    "url": "https://i.guim.co.uk/img/media/96ec115bdcf05379f60e3f5769bec2c6e2abb46c/0_424_5373_3224/master/5373.jpg?width=465&quality=85&dpr=1&s=none",
+                    "height": 279,
+                    "width": 465
+                },
+                "dominantColor": "rgb(240,234,61)"
+            },
+            {
+                "source": {
+                    "name": "CABRA Sports",
+                    "page": "https://cabrasportshq.com/cristiano-ronaldo-doesnt-need-to-do-it-all-for-portugal-anymore/",
+                    "title": "Cristiano Ronaldo doesn't need to do it all for Portugal anymore - CABRA  Sports"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRprWwlXw2AxLjrZx_o9xpgEhxPrq7ZUdQywA&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://cabrasportshq.com/wp-content/uploads/ronaldo.jpeg",
+                    "height": 799,
+                    "width": 1200
+                },
+                "dominantColor": "rgb(50,56,56)"
+            },
+            {
+                "source": {
+                    "name": "Stern",
+                    "page": "https://www.stern.de/sport/fussball/warum-cristiano-ronaldo-gegen-die-schweiz-nur-auf-der-bank-sitzt-32982606.html",
+                    "title": "Warum Cristiano Ronaldo gegen die Schweiz nur auf der Bank sitzt | STERN.de"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrA7kFMN9x8vvxgrF3tYpTiaIxXq5y7i31yA&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://image.stern.de/32982608/t/4Q/v2/w1440/r1.7778/-/06--warum-cristiano-ronaldo-gegen-die-schweiz-nur-auf-der-bank-sitzt--aufmacher-.jpg",
+                    "height": 809,
+                    "width": 1440
+                },
+                "dominantColor": "rgb(80,77,74)"
+            },
+            {
+                "source": {
+                    "name": "The Real Champs",
+                    "page": "https://therealchamps.com/2022/12/31/cristiano-ronaldo-return-real-madrid/",
+                    "title": "Why Cristiano Ronaldo's return to Real Madrid didn't happen"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLy5OyJNtpv9yrUP29mMn8EP1Au8Iu3p0o-g&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://therealchamps.com/wp-content/uploads/getty-images/2017/07/1444231146.jpeg",
+                    "height": 2134,
+                    "width": 3200
+                },
+                "dominantColor": "rgb(160,58,64)"
+            },
+            {
+                "source": {
+                    "name": "Euronews",
+                    "page": "https://www.euronews.com/culture/2023/01/10/cristiano-ronaldo-and-girlfriend-georgina-rodriguez-may-be-allowed-to-break-saudia-arabian",
+                    "title": "Cristiano Ronaldo and girlfriend Georgina Rodriguez may be allowed to break  Saudi Arabian law | Euronews"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStowVp6ytBPb9wG4p3KShqsrgQbHTWw7BqDg&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://static.euronews.com/articles/stories/07/29/86/00/320x180_cmsv2_cecf1f5b-f2c1-5b76-b945-e9419e62f4e4-7298600.jpg",
+                    "height": 180,
+                    "width": 320
+                },
+                "dominantColor": "rgb(18,24,24)"
+            },
+            {
+                "source": {
+                    "name": "TZ",
+                    "page": "https://www.tz.de/sport/fussball/cristiano-ronaldo-fussballer-karriere-vereine-erfolge-gehalt-kinder-or-90779349.html",
+                    "title": "Cristiano Ronaldo: Erfolge, Gehalt, Kinder – alle Infos zum portugiesischen  Fußball-Star"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxhnKKzb8t-nbXnHGf0_TGhwin-ZNX_t9sfg&usqp=CAU",
+                    "height": 225,
+                    "width": 225
+                },
+                "image": {
+                    "url": "https://www.tz.de/bilder/2021/05/27/90779349/29039763-cristiano-ronaldo-2Tec.jpg",
+                    "height": 2400,
+                    "width": 2400
+                },
+                "dominantColor": "rgb(96,26,38)"
+            },
+            {
+                "source": {
+                    "name": "Tagesspiegel",
+                    "page": "https://www.tagesspiegel.de/sport/hort-endlich-auf-den-ronaldo-zu-beweihrauchern-4259521.html",
+                    "title": "Ein Halbgott, der keiner ist: Hört endlich auf, den Ronaldo zu  beweihräuchern!"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrdFJa36MChBAfdFcv_2ppWwjztqi1xz1LUw&usqp=CAU",
+                    "height": 147,
+                    "width": 343
+                },
+                "image": {
+                    "url": "https://www.tagesspiegel.de/sport/images/imago1003209727h/alternates/BASE_21_9_W1000/imago1003209727h.jpeg",
+                    "height": 428,
+                    "width": 1000
+                },
+                "dominantColor": "rgb(144,176,86)"
+            },
+            {
+                "source": {
+                    "name": "WEB.DE",
+                    "page": "https://web.de/magazine/sport/fussball/wm/cristiano-ronaldo-zaubert-essbares-hose-37508838",
+                    "title": "Cristiano Ronaldo zaubert Essbares aus seiner Hose | WEB.DE"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA0lxVkZaWLNz6Pzpw0pRTgqbAAyUG3Pkceg&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://i0.web.de/image/844/37508844,pd=3/portugals-superstar-cristiano-ronaldo-waehrend-wm-.jpg",
+                    "height": 1999,
+                    "width": 3000
+                },
+                "dominantColor": "rgb(90,132,65)"
+            },
+            {
+                "source": {
+                    "name": "Sky Sport",
+                    "page": "https://sport.sky.de/fussball/artikel/fussball-ronaldo-fordert-offenbar-fast-20-millionen-euro-von-juventus/12762065/34942",
+                    "title": "Fußball: Ronaldo fordert offenbar fast 20 Millionen Euro von Juventus |  Fußball News | Sky Sport"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcsk2Wth0Pv5DpGojzn3SSUXgKYCwk5x88g&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://e6.365dm.de/22/12/1600x900/skysport_de-ronaldo-fussball_5987158.jpg?20221205092411",
+                    "height": 900,
+                    "width": 1600
+                },
+                "dominantColor": "rgb(128,118,122)"
+            },
+            {
+                "source": {
+                    "name": "Ntv",
+                    "page": "https://www.n-tv.de/sport/fussball-wm/Cristiano-Ronaldo-meldet-sich-nach-dem-Traenen-Aus-article23776794.html",
+                    "title": "Rücktritt? Karriereende? Weiter?: Cristiano Ronaldo meldet sich nach dem  Tränen-Aus - n-tv.de"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSAAd0KyW2mVTeuWaDkHg_WTF8EOZSHl4X7g&usqp=CAU",
+                    "height": 168,
+                    "width": 299
+                },
+                "image": {
+                    "url": "https://apps-cloud.n-tv.de/img/23776799-1670771279000/16-9/750/387975557.jpg",
+                    "height": 422,
+                    "width": 750
+                },
+                "dominantColor": "rgb(104,78,85)"
+            },
+            {
+                "source": {
+                    "name": "Stuttgarter Nachrichten",
+                    "page": "https://www.stuttgarter-nachrichten.de/inhalt.cristiano-ronaldo-bericht-superstar-entscheidet-sich-fuer-saudischen-club-al-nassr.3926adee-1e3a-4305-9507-71711c4f8acf.html",
+                    "title": "Cristiano Ronaldo: Bericht: Superstar entscheidet sich für saudischen Club  Al-Nassr"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPam5Npkswe7g9ZZL_eAvFZZ1LVjoeu0pBQA&usqp=CAU",
+                    "height": 182,
+                    "width": 277
+                },
+                "image": {
+                    "url": "https://www.stuttgarter-nachrichten.de/media.media.b3bff909-27ef-4e82-bdcb-a9288ac33039.original1024.jpg",
+                    "height": 788,
+                    "width": 1200
+                },
+                "dominantColor": "rgb(232,85,78)"
+            },
+            {
+                "source": {
+                    "name": "Sportbuzzer",
+                    "page": "https://www.sportbuzzer.de/artikel/mesut-ozil-cristiano-ronaldo-kritik-an-medien-bei-twitter-wm/",
+                    "title": "WM 2022: Özil versteht Ronaldo-Kritik nicht – und fordert Respekt -  Sportbuzzer.de"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo36HXicPDEA5uYyZ9y2qSQaygJCvqbSX9tw&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://images.sportbuzzer.de/v1/photos/raw/ronaldo-ozil/regular-16-9",
+                    "height": 506,
+                    "width": 900
+                },
+                "dominantColor": "rgb(104,34,40)"
+            },
+            {
+                "source": {
+                    "name": "Forbes",
+                    "page": "https://www.forbes.com/sites/zakgarnerpurkis/2022/12/23/cristiano-ronaldo-the-50-million-bullet-manchester-city-dodged/",
+                    "title": "Cristiano Ronaldo: The $50 Million Bullet Manchester City Dodged"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-lm2BLHaCNUdiO7m6aW1rYgmsulJHl_Olg&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://imageio.forbes.com/specials-images/imageserve/63a5691a215b0134afcc7319/0x0.jpg?format=jpg&width=1200",
+                    "height": 800,
+                    "width": 1200
+                },
+                "dominantColor": "rgb(30,52,42)"
+            },
+            {
+                "source": {
+                    "name": "The New York Times",
+                    "page": "https://www.nytimes.com/2022/10/21/sports/soccer/cristiano-ronaldo-manchester-united.html",
+                    "title": "Cristiano Ronaldo and the Long Walk - The New York Times"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlZTHRm-c5OG3uGDoCPsdkcFWxyyJWTbsLg&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://static01.nyt.com/images/2022/10/21/multimedia/21rory-ronaldo4-1-ea5c/21rory-ronaldo4-1-ea5c-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                    "height": 400,
+                    "width": 600
+                },
+                "dominantColor": "rgb(16,16,16)"
+            },
+            {
+                "source": {
+                    "name": "Transfermarkt",
+                    "page": "https://www.transfermarkt.de/kahn-schliesst-ronaldo-wechsel-zum-fc-bayern-erneut-aus-bdquo-passt-nicht-in-unsere-idee-ldquo-/view/news/414343",
+                    "title": "Kahn schließt Ronaldo-Wechsel zum FC Bayern erneut aus | Transfermarkt"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1AqpuEq7_VEV1xvX_HnPJPgeIGb8AsxPGQ&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://tmssl.akamaized.net/images/foto/originals/cristiano-ronaldo-portugal-2022-1666641152-94805.jpg?lm=1666641163",
+                    "height": 1964,
+                    "width": 3500
+                },
+                "dominantColor": "rgb(88,30,30)"
+            },
+            {
+                "source": {
+                    "name": "BILD.de",
+                    "page": "https://www.bild.de/sport/fussball/fussball-international/cristiano-ronaldo-feiert-comeback-bei-real-madrid-82255516.bild.html",
+                    "title": "Cristiano Ronaldo feiert Comeback bei Real Madrid! | Sport | BILD.de"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmO7uf23JOBq6tZWfzczeAQyFU2EqLDE27KQ&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://images.bild.de/6399ea48c1400d3a0bf12b13/5ef2c3594f535ada0a0ab0c5fdd37c39,a9eac164?w=992",
+                    "height": 558,
+                    "width": 992
+                },
+                "dominantColor": "rgb(56,50,50)"
+            },
+            {
+                "source": {
+                    "name": "The New Yorker",
+                    "page": "https://www.newyorker.com/sports/replay/the-tears-of-cristiano-ronaldo",
+                    "title": "World Cup 2022: The Tears of Cristiano Ronaldo | The New Yorker"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf_etoSjQ2APaZqB8S1wV5mWV7EyibSv34zw&usqp=CAU",
+                    "height": 159,
+                    "width": 318
+                },
+                "image": {
+                    "url": "https://media.newyorker.com/photos/63826120196c8ef692b4eba5/2:1/w_2559,h_1279,c_limit/Ronaldo_WC22.png",
+                    "height": 1279,
+                    "width": 2559
+                },
+                "dominantColor": "rgb(133,174,184)"
+            },
+            {
+                "source": {
+                    "name": "Kicker",
+                    "page": "https://www.kicker.de/cristiano-ronaldos-traenen-abgang-santos-bereut-jokerrolle-nicht-929094/artikel",
+                    "title": "Cristiano Ronaldos Tränen-Abgang - Santos bereut Jokerrolle nicht - kicker"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNv0vJ31lBbcnRonHVoBZiEpBs8y_LVTvy5A&usqp=CAU",
+                    "height": 168,
+                    "width": 299
+                },
+                "image": {
+                    "url": "https://derivates.kicker.de/image/upload/c_crop,x_0,y_48,w_4000,h_2250/w_1000,q_auto/v1/2022/12/10/4ee5fcfb-24cc-41a8-b739-6e923efed12c.jpeg",
+                    "height": 563,
+                    "width": 1000
+                },
+                "dominantColor": "rgb(200,197,194)"
+            },
+            {
+                "source": {
+                    "name": "Fussball Transfers",
+                    "page": "https://www.fussballtransfers.com/a969482555594363511-ronaldo-dementiert-einigung-mit-al-nassr",
+                    "title": "Ronaldo dementiert Einigung mit Al Nassr"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQy-ri-Ks1p79g0LQ6YzpRTl6dKs5ebbur7w&usqp=CAU",
+                    "height": 173,
+                    "width": 291
+                },
+                "image": {
+                    "url": "https://assets-de.imgfoot.com/media/cache/642x382/cristiano-ronaldo-wc-22-1-638de531aff57.jpg",
+                    "height": 382,
+                    "width": 642
+                },
+                "dominantColor": "rgb(110,155,168)"
+            },
+            {
+                "source": {
+                    "name": "Eurosport",
+                    "page": "https://www.eurosport.de/fussball/wm/2022/cristiano-ronaldo-halt-sich-bei-real-madrid-fit-real-prasident-florentino-perez-gibt-erlaubnis_sto9273509/story.shtml",
+                    "title": "WM 2022: Cristiano Ronaldo hält sich bei Real Madrid fit - Real-Präsident  Florentino Perez gibt Erlaubnis - Eurosport"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFctxVBM25AQfmImVI-ogu6zjqiJcpj3aiMA&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg):focal(1318x294:1320x292)/origin-imgresizer.eurosport.com/2022/12/14/3508220-71511568-2560-1440.jpg",
+                    "height": 675,
+                    "width": 1200
+                },
+                "dominantColor": "rgb(88,82,88)"
+            },
+            {
+                "source": {
+                    "name": "The Guardian",
+                    "page": "https://www.theguardian.com/football/blog/2022/nov/24/ronaldo-steals-the-headlines-again-in-an-unexpectedly-extraordinary-match",
+                    "title": "Ronaldo steals headlines again in Portugal's thriller against Ghana | World  Cup 2022 | The Guardian"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQnAqaEfv0ANJ7v6VwfZTCfqY5QDYXEBw8qw&usqp=CAU",
+                    "height": 225,
+                    "width": 225
+                },
+                "image": {
+                    "url": "https://i.guim.co.uk/img/media/a475627a087a42fe76e416293f2e334ab7710c4d/0_112_3000_1800/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=e920fbd425c0fa804f78cd4e9a58a007",
+                    "height": 1200,
+                    "width": 1200
+                },
+                "dominantColor": "rgb(160,54,51)"
+            },
+            {
+                "source": {
+                    "name": "FAZ",
+                    "page": "https://www.faz.net/aktuell/sport/fussball/cristiano-ronaldo-fuehlt-sich-von-manchester-united-verraten-18459605.html",
+                    "title": "Cristiano Ronaldo fühlt sich von Manchester United verraten"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXc-kFRDkbWkgGmSzAyPFquR8ZItChyPsxCw&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://m.faz.net/media1/ppmedia/aktuell/sport/21644280/1.8461307/mmobject-still_full/angriffslustig-cristiano.jpg",
+                    "height": 528,
+                    "width": 940
+                },
+                "dominantColor": "rgb(56,53,50)"
+            },
+            {
+                "source": {
+                    "name": "TZ",
+                    "page": "https://www.tz.de/sport/fussball/cristiano-ronaldo-real-madrid-rueckkehr-wechsel-transfer-training-news-zr-91975177.html",
+                    "title": "Cristiano Ronaldo auf Real-Madrid-Gelände gesichtet: Spanier sprechen von  „hervorragender Beziehung“"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9TqQ-B8YLkfLoDv4PttA9hy4yQsSn8N90Q&usqp=CAU",
+                    "height": 194,
+                    "width": 259
+                },
+                "image": {
+                    "url": "https://www.tz.de/bilder/2022/12/14/91975177/30506449-cristiano-ronaldo-tauchte-am-vereinsgelaende-von-real-madrid-auf-25YYNwZwKke9.jpg",
+                    "height": 1800,
+                    "width": 2400
+                },
+                "dominantColor": "rgb(43,56,56)"
+            },
+            {
+                "source": {
+                    "name": "WELT",
+                    "page": "https://www.welt.de/sport/fussball/article233529392/Cristiano-Ronaldo-Aus-hoffnungslosem-Fall-macht-er-seinen-Triumph.html",
+                    "title": "Cristiano Ronaldo: Aus hoffnungslosem Fall macht er seinen Triumph - WELT"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDlWu9medLs80saAQ-Bh7w6wXnZRU5e8qu2g&usqp=CAU",
+                    "height": 222,
+                    "width": 227
+                },
+                "image": {
+                    "url": "https://img.welt.de/img/sport/mobile233530984/7202509967-ci102l-w1024/Portugal-v-Republic-of-Ireland-FIFA-World-Cup-2022-Qualifier.jpg",
+                    "height": 1001,
+                    "width": 1024
+                },
+                "dominantColor": "rgb(112,77,54)"
+            },
+            {
+                "source": {
+                    "name": "The New York Times",
+                    "page": "https://www.nytimes.com/2022/12/10/sports/soccer/world-cup-ronaldo-portugal.html",
+                    "title": "Ronaldo In Tears After What Could Be His Final World Cup - The New York  Times"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmX8wTyIZO22wXD4I1JZBtcOGnULTYhpPskg&usqp=CAU",
+                    "height": 225,
+                    "width": 225
+                },
+                "image": {
+                    "url": "https://static01.nyt.com/images/2022/12/10/multimedia/10worldcup-ronaldo2-1-6662/10worldcup-ronaldo2-1-6662-mediumSquareAt3X.jpg",
+                    "height": 1786,
+                    "width": 1786
+                },
+                "dominantColor": "rgb(240,240,234)"
+            },
+            {
+                "source": {
+                    "name": "MARCA",
+                    "page": "https://www.marca.com/en/world-cup/2022/11/14/6372494a268e3e67608b4594.html",
+                    "title": "World Cup 2022: Cristiano Ronaldo can get back at his critics by winning  the World Cup | Marca"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYb7UiYSfRxtkHgqgewKLXpsdyB0wMGXmljw&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://phantom-marca.unidadeditorial.es/33f734a11e57860d4e91abea0d6b8b67/resize/1320/f/jpg/assets/multimedia/imagenes/2022/11/14/16684345046049.jpg",
+                    "height": 880,
+                    "width": 1320
+                },
+                "dominantColor": "rgb(160,45,51)"
+            },
+            {
+                "source": {
+                    "name": "DerStandard",
+                    "page": "https://www.derstandard.at/story/2000141355883/ronaldo-kurz-vor-unterschrift-in-saudi-arabien",
+                    "title": "Geldregen: Ronaldo kurz vor Unterschrift in Saudi-Arabien - Transfermarkt -  derStandard.at › Sport"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHJ1Uo4vNvXl9vnhwqrRYGczVUWffsNK1q2w&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://i.ds.at/e7_vEg/rs:fill:750:0/plain/2022/11/30/ronaldo.jpg",
+                    "height": 500,
+                    "width": 750
+                },
+                "dominantColor": "rgb(25,28,25)"
+            },
+            {
+                "source": {
+                    "name": "Mint",
+                    "page": "https://www.livemint.com/sports/football-news/cristiano-ronaldo-resume-training-at-real-madrid-ground-amid-search-for-new-club-11671100491657.html",
+                    "title": "Cristiano Ronaldo resume training at Real Madrid ground amid search for new  club | Mint"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhCXDykf9lKqG6Wmh4VFhd7qTop-mabzNydA&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://images.livemint.com/img/2022/12/15/1600x900/SOCCER-WORLDCUP-MAR-POR-REPORT-841_1671101976712_1671101976712_1671101985209_1671101985209.JPG",
+                    "height": 900,
+                    "width": 1600
+                },
+                "dominantColor": "rgb(75,120,30)"
+            },
+            {
+                "source": {
+                    "name": "Bavarian Football Works",
+                    "page": "https://www.bavarianfootballworks.com/2022/10/21/23415975/bayern-munich-right-about-cristiano-ronaldo-all-along-manchester-united-erik-ten-hag-cr7",
+                    "title": "Bayern Munich were right about Cristiano Ronaldo all along - Bavarian  Football Works"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStDgLEKXry8B4vLD8kRlAjR1iEM1QI8DV9Og&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://cdn.vox-cdn.com/thumbor/h-zuiyC6jobxGFOFIqj8xk69UM4=/0x76:3786x2568/1200x800/filters:focal(1961x501:2565x1105)/cdn.vox-cdn.com/uploads/chorus_image/image/71525261/1433933081.0.jpg",
+                    "height": 800,
+                    "width": 1200
+                },
+                "dominantColor": "rgb(160,51,51)"
+            },
+            {
+                "source": {
+                    "name": "Sportsnet",
+                    "page": "https://www.sportsnet.ca/soccer/article/ronaldo-set-to-face-psg-messi-in-first-game-in-saudi-arabia/",
+                    "title": "Ronaldo set to face PSG, Messi in first game in Saudi Arabia"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS94w59VN9dxL_Lk71A69SihSQaKwL3ko-HNw&usqp=CAU",
+                    "height": 166,
+                    "width": 303
+                },
+                "image": {
+                    "url": "https://www.sportsnet.ca/wp-content/uploads/2022/10/ronaldo1-1040x572.jpg",
+                    "height": 572,
+                    "width": 1040
+                },
+                "dominantColor": "rgb(10,16,16)"
+            },
+            {
+                "source": {
+                    "name": "Sport1",
+                    "page": "https://www.sport1.de/news/internationaler-fussball/2022/12/as-ronaldo-trainiert-auf-real-gelande",
+                    "title": "Cristiano Ronaldo bei Real Madrid im Training - zurück an alter  Wirkungsstätte"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHk8CmL4I4aZRy82O78Wxg8Ocb3ZgQhwZ_vg&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://reshape.sport1.de/c/v/A9894445-A16D-40E2-BDE4-DBBC65BA0AF5/468x263",
+                    "height": 263,
+                    "width": 468
+                },
+                "dominantColor": "rgb(232,229,226)"
+            },
+            {
+                "source": {
+                    "name": "Al Jazeera",
+                    "page": "https://www.aljazeera.com/news/2022/11/22/ronaldo-to-leave-manchester-united-with-immediate-effect",
+                    "title": "Ronaldo to leave Manchester United 'with immediate effect' | Qatar World  Cup 2022 News | Al Jazeera"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaa_HTud1yCQU4vMmycaz8pLKyrYR4SMtgIg&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://www.aljazeera.com/wp-content/uploads/2022/11/2022-10-27T201618Z_595117998_UP1EIAR1KB5PN_RTRMADP_3_SOCCER-EUROPA-MUN-SHE-REPORT.jpg?resize=770%2C513&quality=80",
+                    "height": 513,
+                    "width": 770
+                },
+                "dominantColor": "rgb(184,43,43)"
+            },
+            {
+                "source": {
+                    "name": "Encyclopedia Britannica",
+                    "page": "https://www.britannica.com/biography/Cristiano-Ronaldo",
+                    "title": "Cristiano Ronaldo | Biography & Facts | Britannica"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwglPrtjIDDqnzfk26YPIsWQbOUkbmRWcv7Q&usqp=CAU",
+                    "height": 195,
+                    "width": 259
+                },
+                "image": {
+                    "url": "https://cdn.britannica.com/63/222663-050-58CCA884/Soccer-forward-Cristiano-Ronaldo-2018.jpg",
+                    "height": 1204,
+                    "width": 1600
+                },
+                "dominantColor": "rgb(138,212,190)"
+            },
+            {
+                "source": {
+                    "name": "MARCA",
+                    "page": "https://www.marca.com/en/world-cup/2022/12/05/638ddff822601dd0348b45a5.html",
+                    "title": "Cristiano Ronaldo will play for Al-Nassr from January 1, 2023 | Marca"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnHzMV90NkhoRuSuIyPerDBgI8AuiYRVELPg&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://phantom-marca.unidadeditorial.es/19c28439011a800605d50e13289c0fa4/resize/1320/f/jpg/assets/multimedia/imagenes/2022/12/05/16702399461500.jpg",
+                    "height": 880,
+                    "width": 1320
+                },
+                "dominantColor": "rgb(248,232,50)"
+            },
+            {
+                "source": {
+                    "name": "Stern",
+                    "page": "https://www.stern.de/sport/fussball/manchester-united--cristiano-ronaldo-sorgt-mit-verletzung-und-flug-nach-portugal-fuer-unruhe-31681248.html",
+                    "title": "Manchester United: Cristiano Ronaldo sorgt mit Verletzung und Flug nach  Portugal für Unruhe | STERN.de"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUSFwYJLenO_kKu_AaN6tYwipw7jCBJdXNSg&usqp=CAU",
+                    "height": 225,
+                    "width": 225
+                },
+                "image": {
+                    "url": "https://image.stern.de/31681250/t/Xu/v2/w1440/r1/-/07--manchester-united--cristiano-ronaldo-sorgt-mit-verletzung-und-flug-nach-portugal-fuer-unruhe--aufmacher-.jpg",
+                    "height": 1440,
+                    "width": 1440
+                },
+                "dominantColor": "rgb(26,29,32)"
+            },
+            {
+                "source": {
+                    "name": "Wikipedia",
+                    "page": "https://en.wikipedia.org/wiki/List_of_career_achievements_by_Cristiano_Ronaldo",
+                    "title": "List of career achievements by Cristiano Ronaldo - Wikipedia"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDL6VsWBN-EmEqCyk3yMDDCWCI9Yn8IePDpQ&usqp=CAU",
+                    "height": 263,
+                    "width": 192
+                },
+                "image": {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/C._Ronaldo_-_Ballon_d%27Or_2014.jpg/640px-C._Ronaldo_-_Ballon_d%27Or_2014.jpg",
+                    "height": 876,
+                    "width": 640
+                },
+                "dominantColor": "rgb(66,104,21)"
+            },
+            {
+                "source": {
+                    "name": "ProSieben",
+                    "page": "https://www.prosieben.de/themen/stars/profile/cristiano-ronaldo-63161",
+                    "title": "Cristiano Ronaldo - Steckbrief, Biografie und alle Infos"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTijniLk7VBjJcjo7VAocDOD7H-wTpx7DG99w&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://mim.p7s1.io/pis/ld/9d5dzChLCVyZ-c1vEwXZAanB-DJ78rnq2V2gRWTHzVV6NywNWMSJCEGmZ4YSENP-WRL0b9lo2z_IfR_W_NB3kxNX7r0WCZUgqgXAFCpLkcMKlOm19QSjHAQCTZ4bfBzWOrTbQN9__zY/profile:original",
+                    "height": 576,
+                    "width": 1024
+                },
+                "dominantColor": "rgb(88,85,82)"
+            },
+            {
+                "source": {
+                    "name": "Sky Sport",
+                    "page": "https://sport.sky.de/fussball/artikel/manchester-united-cristiano-ronaldo-deutet-verbleib-bei-red-devils-an/12612667/33896",
+                    "title": "Manchester United: Cristiano Ronaldo deutet Verbleib bei Red Devils an |  Fußball News | Sky Sport"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomUCyHl0GRxcShDVveIsRrIoKtEFfhxMVMA&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://e6.365dm.de/22/05/1600x900/skysport_de-cr7-ronaldo_5771215.jpg?20220514110437",
+                    "height": 900,
+                    "width": 1600
+                },
+                "dominantColor": "rgb(144,118,118)"
+            },
+            {
+                "source": {
+                    "name": "RAN",
+                    "page": "https://www.ran.de/fussball/international/bildergalerien/cristiano-ronaldo-die-wechseloptionen-cr7-erhaelt-termin-zum-medizincheck-in-saudi-arabien",
+                    "title": "Cristiano Ronaldo - Termin für Medizincheck in Saudi-Arabien steht"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0_prTb2YuLvXgxjgGe9iJI3dsLvJpWUYoUw&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://i3-img.p7s1.io/pis/ezone/6736qgELB38wdEB0AB1fHPDQCtTDCJ4UYl_Ic-IXCoYylZ0mXar255psZunNxEf6nIbS_ptHLX5IFtTKiVdkmIxzXpYobtJ3eJld165bcG32tBrrb0Av6wtQyh0hWPmhhdAvG4V7muoIa1wPQUdpcfK0P70hhLSL6b5z3lkv1po7LPfGKIR26rRco50cFkk5Kc26Tqwjn8JY-O1GLEJSBeTkTl33o_nl7_XgqeNYy5sj-WSC-vG8vQcITIgOYlUQOaHbP2nEY7UPi5jDB6Umv06l23S89eEHw93lb73edoPIQtE99sYlmFKnZbYKITKOyg4G_j-BIw/profile:mag-max-1280x722",
+                    "height": 720,
+                    "width": 1280
+                },
+                "dominantColor": "rgb(18,28,25)"
+            },
+            {
+                "source": {
+                    "name": "Reuters",
+                    "page": "https://www.reuters.com/lifestyle/sports/ronaldo-has-last-chance-shine-world-cup-stage-qatar-2022-11-05/",
+                    "title": "Ronaldo has last chance to shine on World Cup stage in Qatar | Reuters"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvGO_csoAhp-M5t8KmVB8r83BNImTxvGt5Q&usqp=CAU",
+                    "height": 188,
+                    "width": 268
+                },
+                "image": {
+                    "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/4EOISHUMUZJTJCCIAOXC6WG2M4.jpg",
+                    "height": 2260,
+                    "width": 3225
+                },
+                "dominantColor": "rgb(72,46,34)"
+            },
+            {
+                "source": {
+                    "name": "Bavarian Football Works",
+                    "page": "https://www.bavarianfootballworks.com/2022/8/2/23287881/cristiano-ronaldo-bayern-munich-manchester-united-psg-chelsea-atletico-real-madrid-links-lewandowski",
+                    "title": "Sad sack? Nobody wants Cristiano Ronaldo - Bavarian Football Works"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfPR-lco4UZXYXd02OU8bfPazlCcBIeZGSfA&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://cdn.vox-cdn.com/thumbor/9mn_-AZTOJkGKUU9jr78h-VyhXc=/0x0:2983x4475/1400x933/filters:focal(1392x1082:1868x1558):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/71200336/1242235904.0.jpg",
+                    "height": 933,
+                    "width": 1400
+                },
+                "dominantColor": "rgb(224,93,90)"
+            },
+            {
+                "source": {
+                    "name": "Express",
+                    "page": "https://www.express.de/sport/wm-2022-cristiano-ronaldo-fans-erteilen-ihm-klare-abfuhr-378364",
+                    "title": "WM 2022: Cristiano Ronaldo: Fans erteilen ihm klare Abfuhr | Express"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpRNAyQm6tg5zm0Y96IiEbuKpwyo0w669-_w&usqp=CAU",
+                    "height": 194,
+                    "width": 259
+                },
+                "image": {
+                    "url": "https://images.live.dumontnext.de/2022/12/09/4c5cebdc-ab77-474f-a8e9-1eeb7ae9dd99.jpeg?w=1000&auto=format&q=75&format=auto&rect=395,591,1400,1050&s=caefeb924675d1d846e17f02a65f7565",
+                    "height": 750,
+                    "width": 1000
+                },
+                "dominantColor": "rgb(2,8,8)"
+            },
+            {
+                "source": {
+                    "name": "Front Office Sports",
+                    "page": "https://frontofficesports.com/report-ronaldo-sent-record-200m-deal-with-saudi-arabian-club/",
+                    "title": "Report: Ronaldo Sent Record $207M Deal with Saudi Arabian Club"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9Kp8CFGTAIYXgJpUPf25gI4kSjImDiMz6Q&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://frontofficesports.com/wp-content/uploads/2022/11/FOS-PM-22-11.30-Cristiano-Ronaldo.jpg",
+                    "height": 1000,
+                    "width": 1500
+                },
+                "dominantColor": "rgb(104,82,85)"
+            },
+            {
+                "source": {
+                    "name": "Goal.com",
+                    "page": "https://www.goal.com/de/meldungen/cristiano-ronaldo-portugal-nationalmannschaft-zukunft-weitermachen/bltb0676bce35bacc6a",
+                    "title": "Cristiano Ronaldo will wohl Karriere in der Nationalmannschaft fortsetzen |  Goal.com Deutschland"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTppgtAhd8gSu83axn2H77VlAc6BlWDu-qYQ&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blte5f72511fabd931e/6395fad12fc245541e87bbed/GettyImages-1447255727_(1).jpg?auto=webp&format=jpg&quality=100",
+                    "height": 1080,
+                    "width": 1920
+                },
+                "dominantColor": "rgb(88,82,82)"
+            },
+            {
+                "source": {
+                    "name": "Transfermarkt",
+                    "page": "https://www.transfermarkt.de/cristiano-ronaldo/leistungsdatenverein/spieler/8198",
+                    "title": "Cristiano Ronaldo - Leistungsdaten nach Verein | Transfermarkt"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyrFRs9ij2JWH6ZtnDz1Ot4iY2JOjn-tuJaA&usqp=CAU",
+                    "height": 256,
+                    "width": 197
+                },
+                "image": {
+                    "url": "https://img.a.transfermarkt.technology/portrait/big/8198-1668503200.jpg?lm=1",
+                    "height": 390,
+                    "width": 300
+                },
+                "dominantColor": "rgb(24,21,18)"
+            },
+            {
+                "source": {
+                    "name": "BILD.de",
+                    "page": "https://www.bild.de/sport/fussball/fussball-international/cristiano-ronaldo-mit-unglaublichem-zukunfts-plan-kumpel-berichtet-aus-nachricht-82321416.bild.html",
+                    "title": "Cristiano Ronaldo mit unglaublichem Zukunfts-Plan – Kumpel berichtet aus  Nachricht | Sport | BILD.de"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdvpeAd0ju0yullfc4-KQA0g3BJkNyKJayaA&usqp=CAU",
+                    "height": 179,
+                    "width": 282
+                },
+                "image": {
+                    "url": "https://images.bild.de/63a2b1675b308a1f7e08022d/07302cb86e7ee2ea16e8e0d96c4b06ec,9cf0d219?w=992",
+                    "height": 630,
+                    "width": 992
+                },
+                "dominantColor": "rgb(17,52,49)"
+            },
+            {
+                "source": {
+                    "name": "YouTube",
+                    "page": "https://www.youtube.com/watch?v=j6FpcvSor8g",
+                    "title": "Cristiano Ronaldo ▻ \"UNSTOPPABLE\" ft. Sia • Real Madrid Skills & Goals | HD  - YouTube"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9kT8jAE2l-k1jKOlFoW1JVzGwNuZjsQAvw&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://i.ytimg.com/vi/j6FpcvSor8g/maxresdefault.jpg",
+                    "height": 720,
+                    "width": 1280
+                },
+                "dominantColor": "rgb(61,93,112)"
+            },
+            {
+                "source": {
+                    "name": "GQ Germany",
+                    "page": "https://www.gq-magazin.de/entertainment/artikel/cristiano-ronaldo-ich-selbst-zu-sein-ist-langweilig",
+                    "title": "Cristiano Ronaldo: “Ich selbst zu sein, ist langweilig” | GQ Germany"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnz0DsZlqyOQqxHaHP_hIP8uDYqdmnB_uw1g&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://media.gq-magazin.de/photos/6156b0d063f02f5f0289da54/16:9/w_2560%2Cc_limit/IPA_IPA26249871.jpg",
+                    "height": 1440,
+                    "width": 2560
+                },
+                "dominantColor": "rgb(152,40,43)"
+            },
+            {
+                "source": {
+                    "name": "CNN",
+                    "page": "https://www.cnn.com/2022/11/22/football/cristiano-ronaldo-manchester-united-departure-spt-intl/index.html",
+                    "title": "Cristiano Ronaldo to leave Manchester United with immediate effect | CNN"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ZWfzX-mcse-NW6qAIhCAvazzBHhIzZsAoA&usqp=CAU",
+                    "height": 168,
+                    "width": 299
+                },
+                "image": {
+                    "url": "https://cdn.cnn.com/cnnnext/dam/assets/221122175737-cristiano-ronaldo-super-tease.jpg",
+                    "height": 619,
+                    "width": 1100
+                },
+                "dominantColor": "rgb(32,26,19)"
+            },
+            {
+                "source": {
+                    "name": "The Wall Street Journal",
+                    "page": "https://www.wsj.com/articles/world-cup-portugal-switzerland-cristiano-ronaldo-transfer-saudi-arabia-11670333800",
+                    "title": "Cristiano Ronaldo's Farewell Could Take Him From the World Cup to Obscurity  - WSJ"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0L9Rz_UUvyqJGzbWvJB6zGzgnUxvDiacBPQ&usqp=CAU",
+                    "height": 224,
+                    "width": 224
+                },
+                "image": {
+                    "url": "https://images.wsj.net/im-680318/?width=1278&size=1",
+                    "height": 1278,
+                    "width": 1278
+                },
+                "dominantColor": "rgb(37,56,43)"
+            },
+            {
+                "source": {
+                    "name": "The Athletic",
+                    "page": "https://theathletic.com/3947234/2022/11/29/cristiano-ronaldo-portugal-uruguay-goal/",
+                    "title": "Did Cristiano Ronaldo score for Portugal against Uruguay? A thorough  investigation - The Athletic"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT87edhj0ydF0fdo-ZaPQokbeY6e8ERiEoapQ&usqp=CAU",
+                    "height": 183,
+                    "width": 275
+                },
+                "image": {
+                    "url": "https://cdn.theathletic.com/app/uploads/2022/11/29033857/Ronaldo-Portugal-Uruguay-did-he-score-1024x683.jpg",
+                    "height": 683,
+                    "width": 1024
+                },
+                "dominantColor": "rgb(56,50,50)"
+            },
+            {
+                "source": {
+                    "name": "The Mirror",
+                    "page": "https://www.mirror.co.uk/sport/football/news/cristiano-ronaldo-lionel-messi-argentina-28778174",
+                    "title": "Cristiano Ronaldo 'waits in Dubai' for new club as Lionel Messi celebrates  greatest triumph - Mirror Online"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV5u8-5W4vKiA-CSRlsfIOMVMrhMHXNiQeKg&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://i2-prod.mirror.co.uk/incoming/article28778140.ece/ALTERNATES/s1200d/0_Cristiano-Ronaldo-waits-in-Dubai-to-join-new-club-as-Lionel-Messi-celebrates-greatest-triumph.jpg",
+                    "height": 675,
+                    "width": 1200
+                },
+                "dominantColor": "rgb(8,8,8)"
+            },
+            {
+                "source": {
+                    "name": "Eurosport",
+                    "page": "https://www.eurosport.de/fussball/cristiano-ronaldo-renten-vertrag-saudi-arabien-al-nassr-2030-botschafter-wm-gehalt-200-millionen-eur_sto9286462/story.shtml",
+                    "title": "Cristiano Ronaldo soll bei Al Nassr in Saudi-Arabien einen Vertrag bis 2030  unterschreiben - Eurosport"
+                },
+                "thumbnail": {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9Abf6-cAAuOt8XtpcTA9uYoLZ55BM-XgPw&usqp=CAU",
+                    "height": 168,
+                    "width": 300
+                },
+                "image": {
+                    "url": "https://i.eurosport.com/2022/11/29/3499503-71337228-2560-1440.jpg",
+                    "height": 1440,
+                    "width": 2560
+                },
+                "dominantColor": "rgb(48,48,48)"
+            }
+        ]
+    }
+}

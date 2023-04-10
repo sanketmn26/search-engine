@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Fetch title from search query-->
+    <title id="title"></title>
+
+    <!--CSS file link-->
+    <link rel="stylesheet" href="style.css">
+
+    <!--Google font links-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans&family=Permanent+Marker&display=swap" rel="stylesheet">
+
+</head>
+
+<body onload="fetch_data()">
+    <!--This is main header div-->
+    <header id="header_main">
+
+        <!--Logo-->
+        <a href="index.html">
+            <div id="logo"><span style="color:#4285F4">S</span><span style="color:#F4B400">e</span><span
+                    style="color:#DB4437">a</span><span style="color:#4285F4">r</span><span
+                    style="color:#0F9D58">c</span><span style="color:#DB4437">h</span>
+            </div>
+        </a>
+
+        <!--Search query input-->
+        <div id="sub_header">
+            <form id="form">
+                <input id="query" autocomplete="off" type="text" name="query" placeholder="Search" required>
+            </form>
+            <div id="clear" onclick="document.getElementById('query').value = ''"><i
+                    class="fa-solid fa-xmark fa-xl"></i></div>
+            <div id="search" onclick="fetch_result_input()"><i class="fa-solid fa-magnifying-glass fa-xl"></i></div>
+        </div>
+    </header>
+
+    <div id="main_result">
+        <!-- Article link results section -->
+        <div id="text_result"></div>
+
+        <!-- Image result section -->
+        <div id="image_result">
+            <div id="div1"></div>
+            <div id="div2"></div>
+        </div>
+    </div>
+
+
+    <!--Current page JavaScript-->
+    <script>
+
+        //stored search query in variable in session storage
+        function fetch_result_input() {
+            let query1 = document.getElementById("query").value;
+            sessionStorage.setItem("query", query1);
+
+            //fetch_data function will fire from script.js file and fetch data from API
+            fetch_data();
+        }
+
+
+        //event listener for 'Enter' keypress
+        var input = document.getElementById("query");
+
+        input.addEventListener("keypress", function (event) {
+            if (event.key === "Enter") {
+
+                //prevented default <form> action on 'Enter' keypress
+                event.preventDefault();
+
+                //click event will fire on pressing 'Enter' key
+                document.getElementById("search").click();
+            }
+        });
+    </script>
+
+    <!-- fontawesom script -->
+    <script src="https://kit.fontawesome.com/88bc3d5a38.js" crossorigin="anonymous"></script>
+
+    <!-- API JavaScript file -->
+    <script src="script.js"></script>
+</body>
+
+</html>
